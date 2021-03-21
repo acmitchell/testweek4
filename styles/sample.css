@@ -1,0 +1,43 @@
+/* page body background colour and margins */
+body{
+    background-color:#add8e6;
+    margin-left:10%;
+    margin-right:10%;
+    border :5px solid white;
+    
+}
+/* headings styles grouped h1 h2 h3*/
+h1, h2, h3{
+    color:black;
+    font-family: verdana;
+    text-decoration:underline;
+    text-align: center;
+}
+/* CSS Selectors (ID)*/  
+/* Paragraph style using ID*/
+#mainText
+{
+    color:black;
+    font-family: arial;
+    text-align:justify;
+}
+/* Image Style using class*/
+.fullWidthContent 
+{
+    width:100%;
+}
+/* style the anchor element*/
+a{
+    font-size:35px; 
+}
+.anchorLarge {
+    color: chartreuse;
+    font-size: 35px;
+    padding: 80px;
+}
+
+
+
+.anchorLarg {
+    
+}
